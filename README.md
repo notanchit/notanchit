@@ -282,8 +282,6 @@ REST APIs · Python · FastAPI · Data Validation
 
 <hr>
 
-<hr>
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
