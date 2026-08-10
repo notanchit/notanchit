@@ -1,170 +1,101 @@
-<h1 align="center">Hi 👋, I'm Anchit Srivastava</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;Building+AI-Powered+Systems" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=notanchit&label=Profile%20Views&style=flat" />
-</p>
-
 <hr>
 
-<h3 align="center">🚀 What I Build</h3>
+<h3 align="center">💼 Selected Work</h3>
 
 <p align="center">
-  AI-powered applications • RAG systems • Voice assistants • Document intelligence
-  <br>
-  Automation pipelines • APIs • Full-stack applications • Data extraction systems
+  AI Systems • Voice AI • Document Intelligence • RAG • Automation
 </p>
+
+<details>
+<summary>🎙️ <b>AI Voice Assistant</b></summary>
 
 <br>
 
-<h3 align="center">💻 Selected Work</h3>
+Built a real-time AI voice assistant capable of handling conversations, retrieving information through RAG, and processing user requests.
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+**Stack:** Amazon Nova Sonic · Gemini · Twilio · RAG · FastAPI · Python
 
-### 🎙️ AI Voice Assistant
+</details>
 
-Built an AI-powered voice assistant capable of handling real-time conversations and retrieving information from a knowledge base.
+<br>
 
-**Worked with:**
-- Amazon Nova Sonic
-- Gemini Live
-- GPT Realtime
-- Twilio
-- RAG & custom retrieval
-- FastAPI / backend APIs
-- Voice & call pipelines
-- Frontend dashboard
+<details>
+<summary>📄 <b>AI PDF / Form Mapper</b></summary>
 
-</td>
+<br>
 
-<td width="50%" valign="top">
+Built an AI-powered document processing system that extracts fields from PDFs and maps them into structured JSON.
 
-### 📄 AI PDF / Form Mapper
+**Stack:** Gemini · Embeddings · KNN · RAG · Semantic Mapping · JSON
 
-Built an AI-powered system for extracting and mapping fields from PDFs and other documents into structured JSON.
+</details>
 
-**Worked with:**
-- Gemini models
-- Document extraction
-- Semantic field mapping
-- Embeddings
-- KNN search
-- RAG
-- Custom chunking
-- JSON reconciliation
+<br>
 
-</td>
-</tr>
+<details>
+<summary>🏥 <b>Insurance Document Intelligence</b></summary>
 
-<tr>
-<td width="50%" valign="top">
+<br>
 
-### 🏥 Insurance Document Intelligence
+Developed systems for extracting and structuring information from insurance documents, RFQs, and policy data.
 
-Developed systems for extracting structured information from insurance-related documents such as RFQs and policy data.
+**Stack:** LLMs · Document Extraction · Semantic Mapping · JSON · RAG
 
-**Worked with:**
-- LLM-based extraction
-- Structured JSON generation
-- Semantic mapping
-- Group health insurance data
-- Document processing
-- Validation & reconciliation
+</details>
 
-</td>
+<br>
 
-<td width="50%" valign="top">
+<details>
+<summary>🚗 <b>Vehicle Damage Detection</b></summary>
 
-### 🚗 Vehicle Damage Detection
+<br>
 
-Built a multimodal AI workflow for identifying vehicle damage and generating focused images for further analysis.
+Built a multimodal AI workflow for detecting vehicle damage and processing focused image regions for further analysis.
 
-**Worked with:**
-- Gemini multimodal models
-- Image analysis
-- Damage-region detection
-- Image processing
-- Automated analysis pipelines
+**Stack:** Gemini Multimodal · Image Analysis · Image Processing · AI Pipelines
 
-</td>
-</tr>
+</details>
 
-<tr>
-<td width="50%" valign="top">
+<br>
 
-### 🤖 RAG & AI Chatbot
+<details>
+<summary>🤖 <b>RAG & AI Chatbot</b></summary>
+
+<br>
 
 Built retrieval-augmented applications for answering questions from custom knowledge sources.
 
-**Worked with:**
-- Gemini
-- Embeddings
-- KNN retrieval
-- Custom chunking
-- Semantic search
-- Prompt engineering
-- Chatbot APIs
+**Stack:** Gemini · Embeddings · KNN · Chunking · Semantic Search · Prompt Engineering
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 Browser Automation Pipeline
-
-Built automated browser-based data collection and processing pipelines.
-
-**Worked with:**
-- Python
-- Playwright
-- Browser automation
-- Data extraction
-- APIs
-- JSON / structured data
-- Automated workflows
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Verification & API Systems
-
-Worked with API-driven verification and data processing systems for structured identity and vehicle-related information.
-
-**Worked with:**
-- REST APIs
-- API integrations
-- Data validation
-- Backend processing
-- Automated workflows
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎮 Minecraft Discord Bot
-
-Built and hosted a Discord bot with server-management and Minecraft-related functionality.
-
-**Worked with:**
-- Python
-- Discord APIs
-- Minecraft server integration
-- Interactive commands
-- Voice functionality
-- Linux / VPS hosting
-
-</td>
-</tr>
-</table>
+</details>
 
 <br>
+
+<details>
+<summary>🕷️ <b>Browser Automation</b></summary>
+
+<br>
+
+Built browser automation and data extraction pipelines for collecting and processing structured information.
+
+**Stack:** Python · Playwright · Selenium · APIs · JSON
+
+</details>
+
+<br>
+
+<details>
+<summary>🎮 <b>Minecraft Discord Bot</b></summary>
+
+<br>
+
+Built and hosted a Discord bot with Minecraft server integration, interactive commands, timers, and voice functionality.
+
+**Stack:** Python · Discord API · Minecraft · Linux · VPS
+
+</details>
+
+<hr>
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
@@ -172,123 +103,61 @@ Built and hosted a Discord bot with server-management and Minecraft-related func
   <b>Languages</b>
   <br><br>
 
-  <a href="https://docs.python.org/3/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs" />
-  </a>
-  <a href="https://go.dev/doc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=go" />
-  </a>
-  <a href="https://www.php.net/docs.php" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php" />
-  </a>
+  <a href="https://docs.python.org/3/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" /></a>
+  <a href="https://go.dev/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=go" /></a>
+  <a href="https://www.php.net/docs.php" target="_blank"><img src="https://skillicons.dev/icons?i=php" /></a>
 </p>
 
 <p align="center">
   <b>Frameworks & Libraries</b>
   <br><br>
 
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-  <a href="https://angular.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=angular" />
-  </a>
-  <a href="https://nodejs.org/docs/latest/api/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
-  <a href="https://docs.djangoproject.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=django" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=flask" />
-  </a>
-  <a href="https://laravel.com/docs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=laravel" />
-  </a>
-  <a href="https://docs.spring.io/spring-framework/reference/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spring" />
-  </a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://angular.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" /></a>
+  <a href="https://nodejs.org/docs/latest/api/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://docs.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" /></a>
+  <a href="https://laravel.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" /></a>
+  <a href="https://docs.spring.io/spring-framework/reference/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" /></a>
 </p>
 
 <p align="center">
   <b>Databases</b>
   <br><br>
 
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-  <a href="https://www.postgresql.org/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" />
-  </a>
-  <a href="https://www.mongodb.com/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-  </a>
-  <a href="https://redis.io/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=redis" />
-  </a>
-  <a href="https://www.sqlite.org/docs.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sqlite" />
-  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://redis.io/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" /></a>
+  <a href="https://www.sqlite.org/docs.html" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" /></a>
 </p>
 
 <p align="center">
   <b>Cloud & DevOps</b>
   <br><br>
 
-  <a href="https://docs.aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/azure/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=azure" />
-  </a>
-  <a href="https://cloud.google.com/docs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gcp" />
-  </a>
-  <a href="https://docs.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-  <a href="https://kubernetes.io/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kubernetes" />
-  </a>
-  <a href="https://docs.kernel.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" />
-  </a>
-  <a href="https://nginx.org/en/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nginx" />
-  </a>
+  <a href="https://docs.aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
+  <a href="https://learn.microsoft.com/en-us/azure/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" /></a>
+  <a href="https://cloud.google.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" /></a>
+  <a href="https://docs.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://kubernetes.io/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
+  <a href="https://docs.kernel.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="https://nginx.org/en/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" /></a>
 </p>
 
 <p align="center">
   <b>Tools</b>
   <br><br>
 
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="https://docs.github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://learning.postman.com/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" />
-  </a>
-  <a href="https://www.selenium.dev/documentation/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=selenium" />
-  </a>
-  <a href="https://help.figma.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" />
-  </a>
+  <a href="https://git-scm.com/doc" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://docs.github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://learning.postman.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>
+  <a href="https://www.selenium.dev/documentation/" target="_blank"><img src="https://skillicons.dev/icons?i=selenium" /></a>
+  <a href="https://help.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
 </p>
 
 <hr>
@@ -297,12 +166,15 @@ Built and hosted a Discord bot with server-management and Minecraft-related func
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=notanchit&show_icons=true&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=notanchit&show_icons=true&hide_border=true&theme=transparent"
+    width="100%"
   />
+</p>
+
+<p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=notanchit&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=notanchit&layout=compact&hide_border=true&theme=transparent"
+    width="100%"
   />
 </p>
 
