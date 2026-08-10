@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anchit Srivastava</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;Backend+%26+Cloud+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;Building+AI-Powered+Systems" />
 </p>
 
 <p align="center">
@@ -10,9 +10,164 @@
 
 <hr>
 
+<h3 align="center">🚀 What I Build</h3>
+
+<p align="center">
+  AI-powered applications • RAG systems • Voice assistants • Document intelligence
+  <br>
+  Automation pipelines • APIs • Full-stack applications • Data extraction systems
+</p>
+
+<br>
+
+<h3 align="center">💻 Selected Work</h3>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ AI Voice Assistant
+
+Built an AI-powered voice assistant capable of handling real-time conversations and retrieving information from a knowledge base.
+
+**Worked with:**
+- Amazon Nova Sonic
+- Gemini Live
+- GPT Realtime
+- Twilio
+- RAG & custom retrieval
+- FastAPI / backend APIs
+- Voice & call pipelines
+- Frontend dashboard
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📄 AI PDF / Form Mapper
+
+Built an AI-powered system for extracting and mapping fields from PDFs and other documents into structured JSON.
+
+**Worked with:**
+- Gemini models
+- Document extraction
+- Semantic field mapping
+- Embeddings
+- KNN search
+- RAG
+- Custom chunking
+- JSON reconciliation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Insurance Document Intelligence
+
+Developed systems for extracting structured information from insurance-related documents such as RFQs and policy data.
+
+**Worked with:**
+- LLM-based extraction
+- Structured JSON generation
+- Semantic mapping
+- Group health insurance data
+- Document processing
+- Validation & reconciliation
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚗 Vehicle Damage Detection
+
+Built a multimodal AI workflow for identifying vehicle damage and generating focused images for further analysis.
+
+**Worked with:**
+- Gemini multimodal models
+- Image analysis
+- Damage-region detection
+- Image processing
+- Automated analysis pipelines
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 RAG & AI Chatbot
+
+Built retrieval-augmented applications for answering questions from custom knowledge sources.
+
+**Worked with:**
+- Gemini
+- Embeddings
+- KNN retrieval
+- Custom chunking
+- Semantic search
+- Prompt engineering
+- Chatbot APIs
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Browser Automation Pipeline
+
+Built automated browser-based data collection and processing pipelines.
+
+**Worked with:**
+- Python
+- Playwright
+- Browser automation
+- Data extraction
+- APIs
+- JSON / structured data
+- Automated workflows
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Verification & API Systems
+
+Worked with API-driven verification and data processing systems for structured identity and vehicle-related information.
+
+**Worked with:**
+- REST APIs
+- API integrations
+- Data validation
+- Backend processing
+- Automated workflows
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎮 Minecraft Discord Bot
+
+Built and hosted a Discord bot with server-management and Minecraft-related functionality.
+
+**Worked with:**
+- Python
+- Discord APIs
+- Minecraft server integration
+- Interactive commands
+- Voice functionality
+- Linux / VPS hosting
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <h3 align="center">🛠️ Tech Stack</h3>
 
-<!-- Languages -->
 <p align="center">
   <b>Languages</b>
   <br><br>
@@ -40,7 +195,6 @@
   </a>
 </p>
 
-<!-- Frameworks -->
 <p align="center">
   <b>Frameworks & Libraries</b>
   <br><br>
@@ -68,7 +222,6 @@
   </a>
 </p>
 
-<!-- Databases -->
 <p align="center">
   <b>Databases</b>
   <br><br>
@@ -90,7 +243,6 @@
   </a>
 </p>
 
-<!-- Cloud & DevOps -->
 <p align="center">
   <b>Cloud & DevOps</b>
   <br><br>
@@ -118,7 +270,6 @@
   </a>
 </p>
 
-<!-- Tools -->
 <p align="center">
   <b>Tools</b>
   <br><br>
@@ -152,12 +303,6 @@
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=notanchit&layout=compact&theme=transparent&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=notanchit&theme=transparent&hide_border=true"
   />
 </p>
 
