@@ -147,17 +147,17 @@
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=notanchit&show_icons=true&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=notanchit&show_icons=true&theme=transparent&hide_border=true"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=notanchit&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=notanchit&layout=compact&theme=transparent&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=notanchit&hide_border=true&theme=transparent"
+    src="https://streak-stats.demolab.com?user=notanchit&theme=transparent&hide_border=true"
   />
 </p>
 
