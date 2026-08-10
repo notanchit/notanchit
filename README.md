@@ -282,17 +282,25 @@ REST APIs · Python · FastAPI · Data Validation
 
 <hr>
 
+<hr>
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img
+    height="165"
     src="https://github-readme-stats.vercel.app/api?username=notanchit&show_icons=true&theme=transparent&hide_border=true"
-    width="48%"
   />
   <img
+    height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=notanchit&layout=compact&theme=transparent&hide_border=true"
-    width="48%"
   />
+</p>
+
+<hr>
+
+<p align="center">
+  <i>Building • Learning • Experimenting</i>
 </p>
 
 <hr>
