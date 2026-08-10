@@ -302,7 +302,3 @@ REST APIs · Python · FastAPI · Data Validation
 </p>
 
 <hr>
-
-<p align="center">
-  <i>Building • Learning • Experimenting</i>
-</p>
