@@ -1,12 +1,73 @@
 <h1 align="center">Hi 👋, I'm Anchit Srivastava</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;AI+Systems+Builder;Backend+%26+Cloud+Developer" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;AI+Systems+Builder;Backend+%26+Cloud+Developer"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=notanchit&label=Profile%20Views&style=flat" />
+  <img
+    src="https://komarev.com/ghpvc/?username=notanchit&label=Profile%20Views&style=flat"
+  />
 </p>
+
+<hr>
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  I build AI-powered applications, intelligent document systems,
+  voice assistants, APIs and automation pipelines.
+</p>
+
+<table align="center">
+<tr>
+<td>🔨 <b>Currently working on</b></td>
+<td>AI-powered insurance & document intelligence systems</td>
+</tr>
+
+<tr>
+<td>🤖 <b>Currently building</b></td>
+<td>Voice AI • RAG • Document AI • Automation</td>
+</tr>
+
+<tr>
+<td>🧠 <b>Working with</b></td>
+<td>LLMs • RAG • Embeddings • KNN • Multimodal AI</td>
+</tr>
+
+<tr>
+<td>🎙️ <b>Voice AI</b></td>
+<td>Amazon Nova Sonic • Gemini • Twilio</td>
+</tr>
+
+<tr>
+<td>📄 <b>Document AI</b></td>
+<td>PDF Extraction • Semantic Mapping • Structured JSON</td>
+</tr>
+
+<tr>
+<td>🔎 <b>AI & Search</b></td>
+<td>Embeddings • Vector Search • KNN • Chunking</td>
+</tr>
+
+<tr>
+<td>💻 <b>Development</b></td>
+<td>Python • FastAPI • React • Node.js</td>
+</tr>
+
+<tr>
+<td>☁️ <b>Infrastructure</b></td>
+<td>AWS • Docker • Linux • Nginx</td>
+</tr>
+
+<tr>
+<td>🕷️ <b>Automation</b></td>
+<td>Playwright • Selenium • Browser Automation</td>
+</tr>
+
+</table>
 
 <hr>
 
@@ -49,7 +110,7 @@ Gemini · Embeddings · KNN · RAG · Semantic Mapping
 
 <h3>🏥 Insurance Document Intelligence</h3>
 
-Document-processing systems for extracting and structuring insurance RFQ and policy information.
+Systems for extracting and structuring information from insurance RFQs, policies and related documents.
 
 <b>Built with:</b><br>
 LLMs · Document Extraction · Semantic Mapping · JSON · RAG
@@ -285,14 +346,17 @@ REST APIs · Python · FastAPI · Data Validation
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=notanchit&show_icons=true&theme=transparent&hide_border=true"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=notanchit&layout=compact&theme=transparent&hide_border=true"
-  />
+
+<img
+  src="https://raw.githubusercontent.com/notanchit/github-stats/generated/overview.svg#gh-dark-mode-only"
+  alt="GitHub Overview Stats"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/notanchit/github-stats/generated/languages.svg#gh-dark-mode-only"
+  alt="GitHub Languages"
+/>
+
 </p>
 
 <hr>
@@ -300,5 +364,3 @@ REST APIs · Python · FastAPI · Data Validation
 <p align="center">
   <i>Building • Learning • Experimenting</i>
 </p>
-
-<hr>
